@@ -2,7 +2,7 @@
 
 clc;
 close all;
-% clear all;
+clear all;
 t=0:0.001:1;
 vm=input('enter message amplitude ');
 vc=input('enter carrier amplitude ');
