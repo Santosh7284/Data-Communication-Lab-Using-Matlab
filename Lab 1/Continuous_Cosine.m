@@ -2,7 +2,7 @@
 %hz.plot the signal
 clc;
 close all;
-clear all;
+% clear all;
 a=5;
 f=4;
 t=0:0.001:1;
