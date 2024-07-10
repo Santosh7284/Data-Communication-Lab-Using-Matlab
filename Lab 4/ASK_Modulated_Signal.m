@@ -1,5 +1,4 @@
 %construct an ASK modulated signal
-
 clc;
 close all;
 clear all ;
