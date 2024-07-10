@@ -1,4 +1,4 @@
-% Bipolar Encoding
+% Bipolar line Encoding
 
 clc; 
 clear all; 
